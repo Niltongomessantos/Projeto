@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alteração de arquivo
+=======
+texte
+>>>>>>> 7b0128fecef4019f1ca3e3c1f5dc8d9ba9de9649
