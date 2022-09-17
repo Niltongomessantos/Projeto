@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alteração de
+=======
+alteração de arquivow
+>>>>>>> de6bb14d399d6d7a575fa3b81caeebeb8d7a31d1
