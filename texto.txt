@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 banch 3
+=======
+
+alteração de arquivo
+>>>>>>> 592dd66c50bceb5684c3ebbf0ece2b4aa5773cdf
